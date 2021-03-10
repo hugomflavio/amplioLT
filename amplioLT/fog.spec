@@ -8,7 +8,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/fog"
+gfx = "amplioLT/fog"
 
 [grid_main]
 

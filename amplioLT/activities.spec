@@ -13,7 +13,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/activities"
+gfx = "amplioLT/activities"
 
 [grid_main]
 
