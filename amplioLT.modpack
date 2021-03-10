@@ -3,7 +3,6 @@ options = "+Freeciv-2.6-modpack"
 baseURL = "https://raw.githubusercontent.com/hugomflavio/amplioLT/main"
 name = "amplioLT"
 type = "Tileset"
-subtype = "overhead"
 version = "1.0"
 
 [files]

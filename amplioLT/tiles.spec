@@ -12,7 +12,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/tiles"
+gfx = "amplioLT/tiles"
 
 [grid_main]
 

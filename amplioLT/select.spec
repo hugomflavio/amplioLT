@@ -12,7 +12,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/select-alpha"
+gfx = "amplioLT/select-alpha"
 
 [grid_main]
 

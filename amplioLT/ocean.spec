@@ -15,7 +15,7 @@ artists = "
 "
 
 [file]
-gfx = "amplio2/ocean"
+gfx = "amplioLT/ocean"
 
 [grid_main]
 

@@ -11,7 +11,7 @@ options = "+Freeciv-2.6-spec"
 artists = "Hugo Flavio (by editing icons present in the regular Amplio2 pack)"
 
 [file]
-gfx = "amplio2/units_LT"
+gfx = "amplioLT/units_LT"
 
 [grid_main]
 
