@@ -9,7 +9,7 @@ name = "AmplioLT"
 priority = 30
 
 ; There`s no separate versioning in tilesets part of main freeciv distribution
-;version = ""
+version = "1.0"
 
 ; Summary and full description of the tileset.
 summary = _("Large isometric tileset.")
@@ -89,36 +89,36 @@ minimap_intro_file = "misc/radar"
 ; low-color systems, and if there are any duplicate tags (lattermost
 ; tag is used).
 files =
-  "amplio2/terrain1.spec",
-  "amplio2/maglev.spec",
-  "amplio2/terrain2.spec",
-  "amplio2/hills.spec",
-  "amplio2/mountains.spec",
-  "amplio2/ocean.spec",
-  "amplio2/water.spec",
-  "amplio2/tiles.spec",
-  "amplio2/upkeep.spec",
-  "amplio2/activities.spec",
-  "amplio2/fog.spec",
+  "amplioLT/terrain1.spec",
+  "amplioLT/maglev.spec",
+  "amplioLT/terrain2.spec",
+  "amplioLT/hills.spec",
+  "amplioLT/mountains.spec",
+  "amplioLT/ocean.spec",
+  "amplioLT/water.spec",
+  "amplioLT/tiles.spec",
+  "amplioLT/upkeep.spec",
+  "amplioLT/activities.spec",
+  "amplioLT/fog.spec",
   "misc/small.spec",
   "misc/events.spec",
   "misc/governments.spec",
   "misc/specialists.spec",
-  "amplio2/units_LT.spec",
-  "amplio2/units.spec",
-  "amplio2/veterancy.spec",
+  "amplioLT/units_LT.spec",
+  "amplioLT/units.spec",
+  "amplioLT/veterancy.spec",
   "misc/flags-large.spec",
   "misc/buildings-large.spec",
   "misc/wonders-large.spec",
   "misc/space.spec",
   "misc/techs.spec",
   "misc/treaty.spec",
-  "amplio2/nuke.spec",
-  "amplio2/explosions.spec",
-  "amplio2/cities.spec",
-  "amplio2/bases.spec",
-  "amplio2/select.spec",
-  "amplio2/grid.spec",
+  "amplioLT/nuke.spec",
+  "amplioLT/explosions.spec",
+  "amplioLT/cities.spec",
+  "amplioLT/bases.spec",
+  "amplioLT/select.spec",
+  "amplioLT/grid.spec",
   "misc/cursors.spec",
   "misc/overlays.spec",
   "misc/citybar.spec",
