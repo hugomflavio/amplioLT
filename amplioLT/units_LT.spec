@@ -34,4 +34,5 @@ tiles = { "row", "column", "tag"
   0, 8, "u.operative"  ; modded_by_HF
   0, 9, "u.nsubmarine" ; modded_by_HF
   0, 10, "u.fusion_bomber" ; modded_by_HF
+  1, 0, "u.longboat"  ; modded_by_HF
 }
