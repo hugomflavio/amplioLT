@@ -36,5 +36,6 @@ tiles = { "row", "column", "tag"
   0, 10, "u.fusion_bomber" ; modded_by_HF
   1, 0, "u.longboat"  ; modded_by_HF
   1, 1, "u.srcaravel" ; modded_by_HF
-  1, 2, "u.cruise_missile" ; [CS] & [Lexxie]
+  1, 2, "u.missile" ; [CS]
+  1, 3, "u.cruise_missile" ; [CS] & [Lexxie]
   }
