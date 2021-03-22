@@ -85,6 +85,7 @@ tiles = { "row", "column", "tag"
   4,  7, "city.t_food_7"
   4,  8, "city.t_food_8"
   4,  9, "city.t_food_9"
+  4,  10, "city.t_food_10"
 
   5,  0, "city.t_shields_0"
   5,  1, "city.t_shields_1"
@@ -96,6 +97,7 @@ tiles = { "row", "column", "tag"
   5,  7, "city.t_shields_7"
   5,  8, "city.t_shields_8"
   5,  9, "city.t_shields_9"
+  5,  10, "city.t_shields_10"
 
   6, 0, "city.t_trade_0"
   6, 1, "city.t_trade_1"
@@ -107,13 +109,14 @@ tiles = { "row", "column", "tag"
   6, 7, "city.t_trade_7"
   6, 8, "city.t_trade_8"
   6, 9, "city.t_trade_9"
+  6, 10, "city.t_trade_10"
 
 ; Unit Extras(not activities)
 
-  3, 10, "unit.connect"
-  4, 10, "unit.auto_attack",
+  3, 11, "unit.connect"
+  4, 11, "unit.auto_attack",
          "unit.auto_settler"
-  5, 10, "unit.stack"
-  6, 10, "unit.loaded"
+  5, 11, "unit.stack"
+  6, 11, "unit.loaded"
 
 }
