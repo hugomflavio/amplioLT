@@ -38,4 +38,5 @@ tiles = { "row", "column", "tag"
   1, 1, "u.srcaravel" ; modded_by_HF
   1, 2, "u.missile" ; [CS]
   1, 3, "u.cruise_missile" ; [CS] & [Lexxie]
+  1, 4, "u.fusion_missile" ; modded from the above by HF
   }
