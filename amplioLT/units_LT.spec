@@ -39,5 +39,5 @@ tiles = { "row", "column", "tag"
   1, 2, "u.missile" ; [CS]
   1, 3, "u.cruise_missile" ; [CS] & [Lexxie]
   1, 4, "u.fusion_missile" ; modded from the above by HF
-  1, 5, "u.worker" ; HF - PLACEHOLDER FOR TREBUCHET
+  1, 5, "u.trebuchet" ; HF & louis94
   }
