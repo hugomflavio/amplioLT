@@ -8,7 +8,7 @@ options = "+Freeciv-2.6-spec"
 
 ; Additional icons for LongTurn-specific units.
 
-artists = "Hugo Flavio (by editing icons present in the regular Amplio2 pack)"
+artists = "Hugo Flavio (by editing icons present in the regular Amplio2 pack and other modpacks)"
 
 [file]
 gfx = "amplioLT/units_LT"
@@ -22,7 +22,7 @@ dy = 48
 pixel_border = 1
 
 tiles = { "row", "column", "tag"
-				; Scenario League tags in brackets
+        ; Scenario League tags in brackets
   0, 0, "u.barge"    ; modded_by_HF
   0, 1, "u.tribal_worker"   ; modded_by_HF
   0, 2, "u.immigrant"  ; modded_by_HF
@@ -39,4 +39,5 @@ tiles = { "row", "column", "tag"
   1, 2, "u.missile" ; [CS]
   1, 3, "u.cruise_missile" ; [CS] & [Lexxie]
   1, 4, "u.fusion_missile" ; modded from the above by HF
+  1, 5, "u.worker" ; HF - PLACEHOLDER FOR TREBUCHET
   }
