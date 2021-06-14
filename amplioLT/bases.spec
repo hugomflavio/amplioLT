@@ -53,6 +53,7 @@ tiles = { "row", "column", "tag"
       "city.postmodern_occupied_0"
 ;[HH]
  0,  5, "city.disorder"
+ 0,  6, "city.happy"
 ;blank defaults
  1,  5, "cd.city",
       "cd.city_wall"
