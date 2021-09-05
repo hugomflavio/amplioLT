@@ -41,4 +41,5 @@ tiles = { "row", "column", "tag"
   1, 4, "u.fusion_missile" ; modded from the above by HF
   1, 5, "u.trebuchet" ; HF & louis94
   1, 6, "u.pirogue" ; HF
+  2, 0, "u.navytroops"; HF
   }
