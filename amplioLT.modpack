@@ -41,6 +41,8 @@ list =
   "amplioLT/tiles.spec"
   "amplioLT/units.png"
   "amplioLT/units.spec"
+  "amplioLT/units_directional.png"
+  "amplioLT/units_directional.spec"
   "amplioLT/units_LT.png"
   "amplioLT/units_LT.spec"
   "amplioLT/upkeep.png"

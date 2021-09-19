@@ -105,6 +105,7 @@ files =
   "misc/governments.spec",
   "misc/specialists.spec",
   "amplioLT/units_LT.spec",
+  "amplioLT/units_directional.spec",
   "amplioLT/units.spec",
   "amplioLT/veterancy.spec",
   "misc/flags-large.spec",
