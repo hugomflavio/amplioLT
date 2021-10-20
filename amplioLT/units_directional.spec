@@ -68,22 +68,22 @@ tiles = { "row", "column", "tag"
   4, 2, "u.pirogue_sw"; HF
   4, 3, "u.pirogue_n"; HF
   4, 3, "u.pirogue_nw"; HF
-  5, 0, "u.warriors"; HF
-  5, 0, "u.warriors_s"; HF
-  5, 0, "u.warriors_se"; HF
-  5, 1, "u.warriors_e"; HF
-  5, 1, "u.warriors_ne"; HF
-  5, 2, "u.warriors_w"; HF
-  5, 2, "u.warriors_sw"; HF
-  5, 3, "u.warriors_n"; HF
-  5, 3, "u.warriors_nw"; HF
-  5, 0, "u.warriors"; HF
-  5, 0, "u.warriors_s"; HF
-  5, 0, "u.warriors_se"; HF
-  5, 1, "u.warriors_e"; HF
-  5, 1, "u.warriors_ne"; HF
-  5, 2, "u.warriors_w"; HF
-  5, 2, "u.warriors_sw"; HF
-  5, 3, "u.warriors_n"; HF
-  5, 3, "u.warriors_nw"; HF
+  5, 0, "u.cog"; HF
+  5, 0, "u.cog_s"; HF
+  5, 0, "u.cog_se"; HF
+  5, 1, "u.cog_e"; HF
+  5, 1, "u.cog_ne"; HF
+  5, 2, "u.cog_w"; HF
+  5, 2, "u.cog_sw"; HF
+  5, 3, "u.cog_n"; HF
+  5, 3, "u.cog_nw"; HF
+  6, 0, "u.warriors"; HF
+  6, 0, "u.warriors_s"; HF
+  6, 0, "u.warriors_se"; HF
+  6, 1, "u.warriors_e"; HF
+  6, 1, "u.warriors_ne"; HF
+  6, 2, "u.warriors_w"; HF
+  6, 2, "u.warriors_sw"; HF
+  6, 3, "u.warriors_n"; HF
+  6, 3, "u.warriors_nw"; HF
   }
